@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Simulink generated / cache
+slprj/
+*.slxc
+*.autosave
+*.asv
+*.slx.r*
+*.mexmaca64
+*.mexa64
+*.mexw64
